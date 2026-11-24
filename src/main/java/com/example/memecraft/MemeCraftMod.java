@@ -18,8 +18,8 @@ public class MemeCraftMod implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        ModEntities.register();
         ModItems.register();
+        ModEntities.register();
         ModBlocks.register();
         FabricDefaultAttributeRegistry.register(ModEntities.ANOMALY_MINION, com.example.memecraft.entities.AnomalyMinionEntity.createAttributes());
         CardEffectPacket.registerCommon();
