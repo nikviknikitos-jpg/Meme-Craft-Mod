@@ -13,7 +13,7 @@ import net.minecraft.util.math.RotationAxis;
 public class IndusMotorBlockEntityRenderer implements BlockEntityRenderer<IndusMotorBlockEntity> {
     private final BlockRenderManager brm;
     public IndusMotorBlockEntityRenderer(BlockEntityRendererFactory.Context ctx) {
-        this.brm = ctx.getBlockRenderManager();
+        this.brm = net.minecraft.client.MinecraftClient.getInstance().getBlockRenderManager();
     }
     @Override
     public void render(IndusMotorBlockEntity be, float tickDelta, MatrixStack m, VertexConsumerProvider vcp, int light, int overlay) {
