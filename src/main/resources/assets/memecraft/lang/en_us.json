@@ -1,0 +1,14 @@
+{
+  "itemGroup.memecraft.memecraft_tab": "Meme Workshop",
+  "item.memecraft.indus_motor": "Indus Motor",
+  "item.memecraft.tire_item": "Tire",
+  "item.memecraft.red_button_box": "Lucky Button",
+  "item.memecraft.meme_deck": "Meme Deck",
+  "item.memecraft.meme_encyclopedia": "Meme Encyclopedia",
+  "item.memecraft.anomaly_spawner": "Void Anomaly Spawn Egg",
+  "block.memecraft.indus_motor": "Indus Motor",
+  "block.memecraft.red_button_box": "Lucky Button",
+  "entity.memecraft.flying_tire": "Flying Tire",
+  "entity.memecraft.void_anomaly": "Void Anomaly",
+  "entity.memecraft.anomaly_minion": "Anomaly Minion"
+}

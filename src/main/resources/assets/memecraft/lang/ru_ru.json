@@ -1,0 +1,14 @@
+{
+  "itemGroup.memecraft.memecraft_tab": "Мемная Мастерская",
+  "item.memecraft.indus_motor": "Индусский Моторчик",
+  "item.memecraft.tire_item": "Покрышка",
+  "item.memecraft.red_button_box": "Кнопка Удачи",
+  "item.memecraft.meme_deck": "Колода «Сова на скакалке»",
+  "item.memecraft.meme_encyclopedia": "Мемная Энциклопедия",
+  "item.memecraft.anomaly_spawner": "Яйцо Призыва: Фиолетовая Аномалия",
+  "block.memecraft.indus_motor": "Индусский Моторчик",
+  "block.memecraft.red_button_box": "Кнопка Удачи",
+  "entity.memecraft.flying_tire": "Бешеное Колесо",
+  "entity.memecraft.void_anomaly": "Фиолетовая Аномалия",
+  "entity.memecraft.anomaly_minion": "Человечек Аномалии"
+}
