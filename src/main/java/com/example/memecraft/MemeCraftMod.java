@@ -17,10 +17,10 @@ public class MemeCraftMod implements ModInitializer {
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     @Override
-    public void onInitialize() {
-        ModItems.register();
-        ModEntities.register();
+    public void onInitialize() 
+        {ModEntities.register();
         ModBlocks.register();
+        ModItems.register();
         FabricDefaultAttributeRegistry.register(ModEntities.ANOMALY_MINION, com.example.memecraft.entities.AnomalyMinionEntity.createAttributes());
         CardEffectPacket.registerCommon();
         CommandRegistrationCallback.EVENT.register((d, ra, e) -> MemeCommand.register(d));
